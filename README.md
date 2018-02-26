@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-To continue learning using React from [Restart Network](https://restart.network/) we followed tic-tac-toe tutorial
+To continue learning using React during my [Restart Network](https://restart.network/)  guide period we followed tic-tac-toe tutorial
 from official React Documentation website. This allows students to learn more about parent and child component and managing state,
 stateless component and lifting state up to the parent component.
 
