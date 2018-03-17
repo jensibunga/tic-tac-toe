@@ -17,7 +17,6 @@ stateless component and lifting state up to the parent component.
 
 ### URL
 
-* https://my-first-to-do-app.appspot.com/todo
-
+* https://jenjenshas-tic-tac-toe.firebaseapp.com
 
 
